@@ -1,1 +1,1 @@
-# iOS-starter-kit
+This repo is a starter kit for those who want to step into the world of iOS development. By using this kit, you can acquire the necessary basic knowledge of iOS development, start learning with beginner-level tutorials, follow useful blog posts, and learn general topics that need to be known for your first job. The repo serves as a guide for novice iOS developers and offers a comprehensive collection of resources for starting out. Please note that the contents will be added soon.
